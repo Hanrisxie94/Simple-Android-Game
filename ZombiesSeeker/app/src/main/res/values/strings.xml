@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Zombies Seeker</string>
+    <string name="hello_world">Found 0 of 4 Mines</string>
+    <string name="game_size">%1$d × %2$d game</string>
+    <string name="number_zombies">%1$d zombies</string>
+    <string name="board_size">Board Size:</string>
+    <string name="zombies"># Zombies</string>
+    <string name="ok">OK</string>
+    <string name="erase_times_played">Erase Times Played</string>
+    <string name="textview">TextView</string>
+    <string name="scan_used_0"># Scan used: 0</string>
+    <string name="by_hardys_jin">By Hardys Jin</string>
+    <string name="skip">Skip</string>
+    <string name="greate_you_won">Great, you won!</string>
+    <string name="scanUsed"># Scan used: %1$d</string>
+    <string name="found_x_of_total">Found %1$d of %2$d zombies</string>
+    <string name="total_times_played">Times played: %1$d</string>
+    <string name="best_score_null">Best Score: null</string>
+    <string name="best_score">Best Score: %1$d</string>
+    <string name="welcome_background">Welcome Background: <a href="http://www.cs.sfu.ca/CourseCentral/276/bfraser/solutions/images/ImageGallery/content/shutterstock_129298367_large.html">link</a></string>
+    <string name="welcome_logo">Welcome Logo: <a href="https://gamefaqs.gamespot.com/ds/619112-zombies-seeker/images/1195069">link</a></string>
+    <string name="home_background">Home Background: <a href="http://plantsvszombies.wikia.com/wiki/File:Plants_vs_zombies_background_by_mjloveit4.jpg">link</a></string>
+    <string name="play_button">Play Button Icon: <a href="https://www.freepik.com/free-icon/play-button_744800.htm
+">link</a></string>
+    <string name="setting_button">Setting Button Icon: <a href="https://www.onlinewebfonts.com/icon/79951">link</a></string>
+    <string name="help_button">Help Button Icon: <a href="https://www.iconfinder.com/icons/146178/">link</a></string>
+    <string name="game_background">Game Background: <a href="http://plantsvszombies.wikia.com/wiki/File:Plants_vs_zombies_background_by_mjloveit4.jpg">link</a></string>
+    <string name="zombie_head">Zombie Head: <a href="https://www.pinterest.ca/pin/193232640236462505/">link</a></string>
+    <string name="optional_background">Optional Background: <a href="http://www.cs.sfu.ca/CourseCentral/276/bfraser/solutions/images/ImageGallery/content/shutterstock_117556009_large.html">link</a></string>
+    <string name="help_background">Help Background: <a href="http://www.cs.sfu.ca/CourseCentral/276/bfraser/solutions/images/ImageGallery/content/shutterstock_121943956_large.html">link</a></string>
+    <string name="reference">Reference:</string>
+    <string name="back">Back</string>
+</resources>
